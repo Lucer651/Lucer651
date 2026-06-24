@@ -68,5 +68,5 @@ I'm a software development student based in the Netherlands, building things wit
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6E40C9" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Lucer651&style=flat-square&color=6E40C9" alt="Profile views" />
 </p>
