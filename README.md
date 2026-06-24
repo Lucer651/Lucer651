@@ -46,7 +46,7 @@ I'm a software development student based in the Netherlands, building things wit
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucer651&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
