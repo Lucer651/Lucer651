@@ -37,8 +37,8 @@ I'm a software development student based in the Netherlands, building things wit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucer651&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucer651&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+  <img src="https://stats.lucer651.nl/api?username=Lucer651&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://stats.lucer651.nl/api/top-langs/?username=Lucer651&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </p>
 
 ---
